@@ -4,8 +4,14 @@
   "description": "A complete production ready setup",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test" : "node test.js",
+    "prepare": "husky"
   },
   "author": "Tahseen Zaid",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.1.5",
+    "lint-staged": "^15.2.10"
+  }
 }
