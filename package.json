@@ -1,5 +1,5 @@
 {
-  "name": "ts-backend-production",
+  "name": "nodejs-ts-backend-production-template",
   "version": "1.0.0",
   "description": "A complete production ready setup",
   "main": "index.js",
